@@ -1,1 +1,1 @@
-# Simple Tools Web Scanning
+Simple Tools Web Scanning
